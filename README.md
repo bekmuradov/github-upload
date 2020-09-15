@@ -1,4 +1,4 @@
-# traversy_todo_ui
+# Basic Todo App Vue JS
 
 ## Project setup
 ```
